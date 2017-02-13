@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Jonathan Dsouza",
+        "email": "mail2jona@yahoo.com"
+      },
+      "libraryName": {
+        "original": "simple-sockets",
+        "camelized": "simpleSockets",
+        "dasherized": "simple-sockets",
+        "slugified": "simple-sockets",
+        "parts": [
+          "simple",
+          "sockets"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/simple-sockets",
+      "libraryUnitTestDirectory": "test/unit/simple-sockets",
+      "libraryUnitE2eDirectory": "test/e2e/simple-sockets"
+    }
+  }
+}
